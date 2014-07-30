@@ -1,9 +1,9 @@
 # OSHW-RGB-Badge
-Badge with RGB-LED and [OSHW](http://www.oshwa.org/open-source-hardware-logo/) Design.
+Badge with RGB-LED and [OSHW (Open Source Hardware)](http://www.oshwa.org/open-source-hardware-logo/) Design.
 
+Shop: [OSHW-RGB-Badge](http://www.watterott.com/en/OSHW-RGB-Badge)
 
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/OSHW-RGB-Badge/tree/master/pcb)
+Assembly Instructions: [German](https://raw.github.com/watterott/OSHW-RGB-Badge/master/pcb/OSHW-RGB-Badge_de.pdf)
 
 
 ## Videos
