@@ -342,6 +342,7 @@
 <text x="-22.225" y="-2.2225" size="1.27" layer="22" font="vector" ratio="10" rot="MR0">electronic</text>
 <text x="31.75" y="0" size="0.8128" layer="22" font="vector" ratio="10" rot="MR0">www.watterott.com</text>
 <text x="0" y="20.6375" size="0.762" layer="22" font="vector" ratio="10" rot="MR0" align="center">github.com/watterott/OSHW-RGB-Badge</text>
+<text x="-34.29" y="-27.94" size="1.27" layer="49" font="vector" ratio="10" align="top-left">Silkscreen: 21 tPlace + 22 bPlace</text>
 </plain>
 <libraries>
 <library name="CN2032">
