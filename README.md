@@ -5,7 +5,7 @@ Shop: [OSHW-RGB-Badge](http://www.watterott.com/en/OSHW-RGB-Badge)
 
 Assembly Instructions: [German](https://raw.github.com/watterott/OSHW-RGB-Badge/master/pcb/OSHW-RGB-Badge_de.pdf)
 
-![OSHW-RGB-Badge](https://raw.github.com/watterott/OSHW-RGB-Badge/master/img/oshw-rgb-badge.jpg)
+[![OSHW-RGB-Badge](https://raw.github.com/watterott/OSHW-RGB-Badge/master/img/oshw-rgb-badge.jpg)](http://www.watterott.com/en/OSHW-RGB-Badge)
 
 
 ## Videos
